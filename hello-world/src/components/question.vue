@@ -99,7 +99,7 @@ export default {
   width: 800px;
 
   h2 {
-    font-size: 24px;
+    font-size: 18px;
   }
 
   .question-triangle {

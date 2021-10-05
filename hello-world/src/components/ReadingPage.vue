@@ -32,7 +32,7 @@
     <div class="container mt-5" v-else>
       <div class="d-flex justify-content-between">
         <h3>MODULE 3</h3>
-        <h4>Definition and Conceptualization of health literacy</h4>
+        <h4>Determinant factors of health literacy &amp; <br> How is health literacy linked to health outcomes?</h4>
       </div>
 
       <div class="box py-4">
@@ -40,154 +40,126 @@
         <h4 class="my-0">Describe health literacy and related issues</h4>
       </div>
       <p>
-        Although the module concerns the introduction of digital health
-        literacy, we are going to start by understanding the core element of
-        digital health literacy, health literacy. Thus, in the first section, we
-        will be looking at the definition of health literacy, antecedents of
-        health literacy, its relationship to health outcomes, and related
-        skills.
+        In the health literacy literature, a range of factors and personal characteristics have been identified as determinant factors affecting the skills and abilities of people to make decisions and take action about health and health care. Understanding these factors is important, as they may suggest places where action can be taken for health literacy improvement. The literature identified three main categories of such factors (Sørensen et al., 2012):
       </p>
-      <h2><b>What is health literacy?</b></h2>
+      <div class="box box-purple">
+        <h2><b>1) Environmental and societal factors:</b></h2>
+      </div>
       <p>
-        The term health literacy is a new concept in health-related studies, and
-        only within the last decade have researchers started to discussed
-        problems associated with it, the role it plays in an individual’s
-        ability to comprehend health-related information, and its relationship
-        to health outcomes (Sørensen et al., 2012). Health is not only a new
-        concept to health researchers, but some of the health practionners are
-        unaware of the health concept, and its importance. However, it is
-        important to understand health literacy, because if a person does not
-        have adequate health literacy or health-care provider is unaware of the
-        person's level of health literacy, it will be difficult to generate
-        person-centered health-care (Osborne, 2014).
-        <br /><br />
-        In the existing literature, health literacy is associated with various
-        definitions and interpretations, and they vary based on different health
-        domains, including health promotion, health-care, and disease
-        prevention. According to the World Health Organization (WHO, 2013), a
-        broad and inclusive definition of health literacy is:
+        The environmental and societal factors which may influence health literacy include: Culture, Language, Political forces, and Societal systems (Sørensen et al., 2012).
       </p>
 
-      <div class="box">
-        <p class="box-quote">
-          <em
-            >“Health literacy is linked to literacy and entails people’s
-            knowledge, motivation and competences to access, understand,
-            appraise and apply health information in order to make judgments and
-            take decisions in everyday life concerning health care, disease
-            prevention and health promotion to maintain or improve quality of
-            life during the life course.” (Sørensen et al., 2012; as cited in
-            WHO, 2013 pp.4)”.</em
-          >
-        </p>
+      <div class="box box-purple">
+        <h2><b>2) Individual factors:</b></h2>
       </div>
 
-      <hr />
+      <p>The individual factors that may be considered as antecedents of health literacy include:</p>
 
-      <h2>Conceptualization of health literacy</h2>
       <p>
-        For a practice-oriented understanding of the above definition, the
-        European Health Literacy Consortium developed an integrated conceptual
-        model of health literacy (Figure 1), which identifies 4 dimensions of
-        health literacy related to the ability to accessing, understanding,
-        appraising, and applying health-related information. This model
-        integrates medical and public views on health literacy. It was developed
-        based on a systematic review that counted 17 peer-reviewed definitions
-        and 12 previous conceptual frameworks and models of health literacy. As
-        you may see, the model also noted the determinants factors and outcomes
-        of health literacy (more discussed in the next sub-sections).
+        <b>Individual characteristics</b> such as aging, gender, race, socioeconomic status, education, occupation, employment, and income. Concerning aging, a decline in an older adult's (65 and above) cognitive ability could contribute to the ability to comprehend and/or recall health information. Further, physical impairments such as hearing and vision loss may also contribute to a decreased ability to process health information (Sørensen et al., 2012).
       </p>
-      <img src="../assets/figure1.png" />
-      <div class="figure-text d-flex justify-content-center">
-        <span
-          ><b>Figure1</b>: Integrated model of health literacy. The core part of
-          the model shows the four dimensions of health literacy related to
-          competencies of accessing, understanding, appraising and applying
-          health-related information within health care, disease prevention and
-          health promotion settings. The outer parts present the determinants
-          factors of health literacy and the pathways to health outcomes.
-          Source: (Sørensen et al., 2012).</span
-        >
-      </div>
 
-      <div class="d-flex figure-2-box align-items-center">
-        <img class="figure-2-img" src="../assets/figure2.png" />
-        <div class="box figure-2-text">
-          <p>
-            Further, the European Health Literacy Consortium combined the four
-            dimensions referring to health information processing with the three
-            levels of health domains (health-care, disease prevention, and
-            health promotion), and this yields a matrix with 12 dimensions of
-            health Literacy as it is described in Table 1.
-          </p>
-        </div>
-      </div>
-
-      <hr />
-
-      <h2>Health literacy environment</h2>
       <p>
-        WHO (2013) noted that the European Health Literacy Consortium model can
-        serve as a basis for developing interventions for improving health
-        literacy, and has provided a conceptual basis for developing and
-        validating measurement tools, capturing the dimensions of health
-        literacy within health care, disease prevention, and health promotion
-        settings.
+        <b>Individual abilities</b> such as vision, hearing, speaking, reasoning, memory, and physical abilities; Individual skills associated with reading, comprehension, and numeracy; may lead to a progressively lower understanding of how to stay healthy and adhere to medication, when to seek medical attention, and properly follow medical regimens to recover from acute and care for chronic health conditions (Sørensen et al., 2012).
+      </p>
+     
+      <p>
+        <b>Personal health-related prior experience</b> (e.g., prior illness, awareness of healthcare delivery systems, exposure to medication) has also been identified as antecedents of health literacy that may contribute to developing an individual's health knowledge and potential. More simply put, individuals who had a health-related experience were exposed to the language of health care and cognitive framework that makes the health care information that was received seem logical (Speros, 2005). For example, individuals with chronic illness are likely to have more interaction with the health system and greater responsibility for participating in their care and treatment (Manganello, 2008).
       </p>
 
-      <div class="box">
-        <p>
-          Although the European Health Literacy Consortium model is important,
-          it only conceptualizes health literacy from the perceptive of
-          individual abilities and knowledge. However, the range of evidence
-          presented supports a wider and relational concept of health literacy
-          that considers both individual abilities and knowledge and health
-          literacy environment (see, figure 2) (Parker, 2009). 'Health literacy
-          environment' is a mix of the infrastructure, policies, processes,
-          materials, people and relationships of the health system can be set up
-          and work in a way that makes it easier or more difficult for consumers
-          to navigate, understand and use information and services about health
-          and health care (Australian Commission on Safety and Quality in Health
-          Care, 2014). The way the health literacy environment works, and how
-          complex it is influences how individual make decisions and take
-          actions about health. Thus, the envision of health literacy
-          improvement should consider both individual abilities and the
-          environment demands to ensure that people are in the best position to
-          make decisions and take action about their health.
-        </p>
+      <div class="box box-purple">
+        <h2><b>3) Situational factors:</b></h2>
       </div>
-      <img src="../assets/figure3.png" />
 
-      <div class="figure-text d-flex justify-content-center">
-        <span
-          ><b>Figure 2</b>. Health literacy. Health literacy is about both the
-          individual’s skills and abilities, and the complexities of the
-          contexts within which individuals act. (Parker, 2009)</span
-        >
-      </div>
+      <p>
+        <b>Physical environment, family, and peer influences:</b> <br><br>
+          Situational factors such as family and peers have been shown to have a direct influence on health literacy and health behavior. Considering the case of the youth, these factors can play a prominent role in the lives of youth as they transition into adolescence (Manganello, 2008).
+      </p>
+
+      <p>
+       <b>Health and education institutions: </b> <br><br>
+          Other situational factors include health and education systems serve as potential contributors to the development of health literacy skills, and thus, act as possible areas for interventions. For instance, the education systems have a role in developing people's literacy as an integral part of health literacy. Therefore, how the education system is constituted may impact health literacy (Manganello, 2008).
+      </p>
+
+      <p>
+        <b>Media use:</b> <br><br> 
+        Media use may influence people's ability to access health information from mass media, understand the content, and evaluate the credibility of the information they obtain (Manganello, 2008).
+      </p>
+
+      <hr>
+
+      <h3 class="mt-5 color-purple">Health literacy outcomes</h3>
+
+      <p>
+        A number of health literacy models have shown that an advanced level of health is beneficial to individual well-being, to the safety of health systems, and to the sustainable development of the whole community (Paasche-Orlow & Wolf, 2007; Sørensen et al., 2012; Ratzan, 2001).
+      </p>
+
+      <p class="color-purple mb-3">
+        <b><em>Health literacy and individual benefits</em></b>
+      </p>
+
+      <p class="mt-0 mb-2">
+        In terms of individual benefits, advanced health literacy leads to:
+      </p>
+
+      <ul class="px-3">
+        <li>Improved knowledge of risks and health services.</li>
+        <li>Better management of own health-care and health-care of family, including maintaining treatment and medication regimens.</li>
+        <li>Improved interaction between healthcare providers.</li>
+        <li>Improved capacity to act independently in the health systems.</li>
+        <li>Improved motivation and more self-confidence.</li>
+        <li>Improved individual resilience to social and economic adversity.</li>
+      </ul>
+
+      <p class="color-purple mb-3">
+        <b><em>Health literacy and the safety of health-care systems</em></b>
+      </p>
+
+      <p class="mt-0 mb-2">
+        In terms of health-care systems, advanced health literacy in the population is associated with:
+      </p>
+
+      <ul class="px-3">
+        <li>Lower healthcare costs.</li>
+        <li>Increased health knowledge.</li>
+        <li>Shorter hospitalization.</li>
+        <li>Less frequent use of healthcare services.</li>
+      </ul>
+
+      <p class="color-purple mb-3">
+        <b><em>Health literacy and social and community benefits</em></b>
+      </p>
+
+      <p class="mt-0 mb-2">
+        In terms of community and social benefits, advanced health literacy increases:
+      </p>
+
+      <ul class="px-3">
+        <li>The citizens' participation in health programs.</li>
+        <li>The citizens capacity to influence social norms.</li>
+        <li>Good interaction with social groups.</li>
+        <li>The citizens capacity to act on social and economic policies.</li>
+        <li>The incentives to invest in children education.</li>
+        <li>The incentives to invest in the labor market productivity and other important things including a pension scheme.</li>
+      </ul>
 
       <h3 class="mt-5"><em>REFERENCES</em></h3>
       <hr />
       <ul>
         <li>
-          WHO. (2013). Health literacy. The solid facts.
-          https://apps.who.int/iris/handle/10665/326432
+          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., & Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80.
         </li>
         <li>
-          Ruth Parker. (2009). Measuring Health Literacy: What? So What? Now
-          What? https://www.ncbi.nlm.nih.gov/books/NBK45386/
+          Speros, C. (2005). Health literacy: Concept analysis. Journal of Advanced Nursing, 50(6), 633–640. https://doi.org/10.1111/j.1365-2648.2005.03448.x
         </li>
         <li>
-          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J.,
-          Slonska, Z., & Brand, H. (2012). Health literacy and public health: A
-          systematic review and integration of definitions and models. BMC
-          Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80.
+          Paasche-Orlow, M. K., & Wolf, M. S. (2007). The causal pathways linking health literacy to health outcomes. American Journal of Health Behavior, 31(SUPPL. 1). https://doi.org/10.5993/ajhb.31.s1.4
         </li>
         <li>
-          Australian Commission on Safety and Quality in Health Care. (2014).
-          Health Literacy: Taking action to improve safety and quality (Issue
-          August).
-          http://www.safetyandquality.gov.au/wp-content/uploads/2014/08/Health-Literacy-Taking-action-to-improve-safety-and-quality.pdf
+          Ratzan, S. (2001). Health literacy: communication for the public good. Health Promotion International, 16(2). https://doi.org/doi: 10.1093/heapro/16.2.207
+        </li>
+        <li>
+          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., & Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80
         </li>
       </ul>
 
@@ -296,18 +268,14 @@ ul {
   border-radius: 50px;
   margin: 30px 0;
 
-  .box-quote {
-    font-size: 15px;
-    color: $color_darkPurple;
-    font-weight: 600;
-  }
+  &.box-purple {
+    background-color: $color_darkPurple;
 
-  &.figure-2-text {
-    border-radius: 50px 0 0 50px;
-  }
-
-  .h3-learning {
-    color: rgba(13, 8, 68, 0.55);
+    h2 { 
+      color: white;
+      margin: 0;
+      font-size: 24px;
+    }
   }
 }
 
@@ -378,6 +346,10 @@ ul {
   margin-left: 1rem;
   position: relative;
   top: 6px;
+}
+
+.color-purple {
+  color: $color_darkPurple;
 }
 /* play with some lines below */
 #progress-container-el {
