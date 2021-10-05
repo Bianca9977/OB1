@@ -46,7 +46,7 @@ export default {
 /* The progress bar (scroll indicator) */
 .progress-bar {
   height: 8px;
-  background-color: $color_darkPurple;
+  background-color: $color_darkPurple !important;
   width: 0%;
 }
 </style>

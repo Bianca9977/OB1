@@ -69,8 +69,8 @@ export default {
           {
             text: "first text",
             question: {
-              text: "Bunyana is 72 years old woman, who is leaving in the countryside area of Bunagana. She did not attend schools, but she is a rich farmer. Among the following statement, what is true about Bunyana?",
-              responses: [{ text: "She may tend to use more of preventive care approaches" }, { text: "She may tend to use less expensive health-care services."}, { text: "She may tend to use more medicine.", correct: true }],
+              text: "To seek, find, understand, and appraise health information from electronic sources require different skills, which are englobed in what is called digital health literacy. Among the following, which is irrelevant for digital health literacy?",
+              responses: [{ text: "The ability to use search engines." }, { text: "The ability to read English", correct: true}, { text: "The ability to understand relevant health terms." }],
               feedback: "visualaudio", //visual, audio, visualaudio or none
             },
           },
@@ -89,8 +89,8 @@ export default {
           {
             text: "",
             question: {
-              text: "Kalisa is 19 years old, and he is a student at St Peter’s High school. Last year, Kalisa has recovered from tuberculosis from which he suffered for 3 years. Among, the following statements, what is true about Kalisa:",
-              responses: [{ text: "Kalisa would tend to use emergency services for infectious diseases." }, { text: "Kalisa would tend to use more expensive medicine against infectious diseases."}, { text: "Kalisa would tend to use more preventive methods to fight infectious diseases.", correct: true}],
+              text: "Which of the following is one of the major barriers to the achievement of digital health literacy in the population?",
+              responses: [{ text: "Poor interaction between health-care workers and health-consumers" }, { text: "Lack of ability to navigate into the health systems.", correct: true}, { text: "Time to navigate into digital health systems."}],
               feedback: "visualaudio", //visual, audio, visualaudio or none
             },
           },
@@ -110,7 +110,7 @@ export default {
             text: "third page first text",
             question: {
               text: "Which of the following statements is correct?",
-              responses: [{ text: "It is common for everyone who is not a clinician or a pharmacist to misunderstand drug labels or have trouble following their directions." }, { text: "It is common for people living in rural and remote areas to misunderstand drug labels or have trouble following their directions."}, { text: "It is common for people with limited health literacy to misunderstand drug labels or have trouble following their directions.", correct: true}],
+              responses: [{ text: "Limited digital literacy can increase health disparities in low-income countries.", correct: true }, { text: "A limited number of advanced e-health systems can increase health disparities in low-income countries."}, { text: "A limited number of health workers who understand the functionalities of e-health systems can increase health disparities in low-income countries."}],
               feedback: "visualaudio", //visual, audio, visualaudio or none
             },
           },
@@ -128,8 +128,8 @@ export default {
            {
             text: "",
             question: {
-              text: "Which of the following statements is correct?",
-              responses: [{ text: "It is hard for everyone to know when it is appropriate to go to the emergency room rather than a primary care doctor." }, { text: "It is hard for people without medical training to know when it is appropriate to go to the emergency room rather than a primary care doctor."}, { text: "It is hard for people with limited health literacy to know when it is appropriate to go to the emergency room rather than a primary care doctor.", correct: true}],
+              text: "The use of health information over the internet comes up with different advantages. Those include:",
+              responses: [{ text: "Insured anonymity while searching health information." }, { text: "Quick access to the variety of health-behavior tips.", correct: true}, { text: "Access to organized and accurate information."}],
               feedback: "visualaudio", //visual, audio, visualaudio or none
             },
           }
