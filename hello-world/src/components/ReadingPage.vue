@@ -147,19 +147,19 @@
       <hr />
       <ul>
         <li>
-          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., & Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80.
+          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., &amp; Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80.
         </li>
         <li>
           Speros, C. (2005). Health literacy: Concept analysis. Journal of Advanced Nursing, 50(6), 633–640. https://doi.org/10.1111/j.1365-2648.2005.03448.x
         </li>
         <li>
-          Paasche-Orlow, M. K., & Wolf, M. S. (2007). The causal pathways linking health literacy to health outcomes. American Journal of Health Behavior, 31(SUPPL. 1). https://doi.org/10.5993/ajhb.31.s1.4
+          Paasche-Orlow, M. K., &amp; Wolf, M. S. (2007). The causal pathways linking health literacy to health outcomes. American Journal of Health Behavior, 31(SUPPL. 1). https://doi.org/10.5993/ajhb.31.s1.4
         </li>
         <li>
           Ratzan, S. (2001). Health literacy: communication for the public good. Health Promotion International, 16(2). https://doi.org/doi: 10.1093/heapro/16.2.207
         </li>
         <li>
-          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., & Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80
+          Sørensen, K., Van Den Broucke, S., Fullam, J., Doyle, G., Pelikan, J., Slonska, Z., &amp; Brand, H. (2012). Health literacy and public health: A systematic review and integration of definitions and models. BMC Public Health, 12(1), 80. https://doi.org/10.1186/1471-2458-12-80
         </li>
       </ul>
 
