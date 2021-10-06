@@ -160,7 +160,7 @@ input {
   input {
 
     &:checked {
-      content: url('../assets/tick.png'); 
+      content: url('../assets/tickB.png'); 
       padding: 8px;
     }
   }
@@ -172,7 +172,7 @@ input {
   input {
 
     &:checked {
-      content: url('../assets/x.png'); 
+      content: url('../assets/xB.png'); 
       padding: 8px;
     }
   }
