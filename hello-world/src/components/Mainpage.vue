@@ -71,7 +71,7 @@ export default {
             question: {
               text: "To seek, find, understand, and appraise health information from electronic sources require different skills, which are englobed in what is called digital health literacy. Among the following, which is irrelevant for digital health literacy?",
               responses: [{ text: "The ability to use search engines." }, { text: "The ability to read English", correct: true}, { text: "The ability to understand relevant health terms." }],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "visual", //visual, audio, visualaudio or none
             },
           },
           /* {
@@ -91,7 +91,7 @@ export default {
             question: {
               text: "Which of the following is one of the major barriers to the achievement of digital health literacy in the population?",
               responses: [{ text: "Poor interaction between health-care workers and health-consumers" }, { text: "Lack of ability to navigate into the health systems.", correct: true}, { text: "Time to navigate into digital health systems."}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "visual", //visual, audio, visualaudio or none
             },
           },
           /* {
@@ -111,7 +111,7 @@ export default {
             question: {
               text: "Which of the following statements is correct?",
               responses: [{ text: "Limited digital literacy can increase health disparities in low-income countries.", correct: true }, { text: "A limited number of advanced e-health systems can increase health disparities in low-income countries."}, { text: "A limited number of health workers who understand the functionalities of e-health systems can increase health disparities in low-income countries."}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "visual", //visual, audio, visualaudio or none
             },
           },
       /*     {
@@ -130,7 +130,7 @@ export default {
             question: {
               text: "The use of health information over the internet comes up with different advantages. Those include:",
               responses: [{ text: "Insured anonymity while searching health information." }, { text: "Quick access to the variety of health-behavior tips.", correct: true}, { text: "Access to organized and accurate information."}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "visual", //visual, audio, visualaudio or none
             },
           }
         ]
