@@ -156,13 +156,8 @@ input {
 }
 
 .correct-answer {
-  background-color: white;
-  border: 10px solid $color_green;
-  color: $color_darkGreen;
-  filter: drop-shadow(0px 8px 15px $color_green);
 
   input {
-    border: 5px solid $color_green;
 
     &:checked {
       content: url('../assets/tick.png'); 
@@ -173,13 +168,8 @@ input {
 }
 
 .wrong-answer {
-  background-color: white;
-  border: 10px solid $color_red;
-  color: #0D0844;
-  filter: drop-shadow(0px 8px 15px $color_red);
 
   input {
-    border: 3px solid $color_red;
 
     &:checked {
       content: url('../assets/x.png'); 

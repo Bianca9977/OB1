@@ -71,7 +71,7 @@ export default {
             question: {
               text: "Bunyana is 72 years old woman, who is leaving in the countryside area of Bunagana. She did not attend schools, but she is a rich farmer. Among the following statement, what is true about Bunyana?",
               responses: [{ text: "She may tend to use more of preventive care approaches" }, { text: "She may tend to use less expensive health-care services."}, { text: "She may tend to use more medicine.", correct: true }],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "audio", //visual, audio, visualaudio or none
             },
           },
           /* {
@@ -91,7 +91,7 @@ export default {
             question: {
               text: "Kalisa is 19 years old, and he is a student at St Peter’s High school. Last year, Kalisa has recovered from tuberculosis from which he suffered for 3 years. Among, the following statements, what is true about Kalisa:",
               responses: [{ text: "Kalisa would tend to use emergency services for infectious diseases." }, { text: "Kalisa would tend to use more expensive medicine against infectious diseases."}, { text: "Kalisa would tend to use more preventive methods to fight infectious diseases.", correct: true}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "audio", //visual, audio, visualaudio or none
             },
           },
           /* {
@@ -111,7 +111,7 @@ export default {
             question: {
               text: "Which of the following statements is correct?",
               responses: [{ text: "It is common for everyone who is not a clinician or a pharmacist to misunderstand drug labels or have trouble following their directions." }, { text: "It is common for people living in rural and remote areas to misunderstand drug labels or have trouble following their directions."}, { text: "It is common for people with limited health literacy to misunderstand drug labels or have trouble following their directions.", correct: true}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "audio", //visual, audio, visualaudio or none
             },
           },
       /*     {
@@ -130,7 +130,7 @@ export default {
             question: {
               text: "Which of the following statements is correct?",
               responses: [{ text: "It is hard for everyone to know when it is appropriate to go to the emergency room rather than a primary care doctor." }, { text: "It is hard for people without medical training to know when it is appropriate to go to the emergency room rather than a primary care doctor."}, { text: "It is hard for people with limited health literacy to know when it is appropriate to go to the emergency room rather than a primary care doctor.", correct: true}],
-              feedback: "visualaudio", //visual, audio, visualaudio or none
+              feedback: "audio", //visual, audio, visualaudio or none
             },
           }
         ]
